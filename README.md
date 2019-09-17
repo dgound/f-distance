@@ -13,9 +13,9 @@ To see the installed packages of your python distribution type <code>pip list</c
 To install pandas using Pip type <code> pip install pandas </code>. If you use conda type <code> conda install pandas </code>.
 
 To install python-igraph on OSX use the following commands in the terminal:
-<code> brew install cairo </code>
-<code> brew install py2cairo </code>
-<code> brew install igraph  </code>
+<code> brew install cairo </code>,
+<code> brew install py2cairo </code>,
+<code> brew install igraph  </code> and
 <code> pip install python-igraph </code> for pip users or <code>conda install -c conda-forge python-igraph</code> for conda users.
 
 Note that for the above commands to work, Homebrew is required. For installation please follow the instructions at: http://brew.sh/ 
