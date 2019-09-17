@@ -10,7 +10,7 @@ The script has been tested on Python 3.7 on OSX 10.14.5 and on Ubuntu Linux 16.0
 2. python-igraph
 
 To see the installed packages of your python distribution type <code>pip list</code>. If you use conda type <code>conda list</code>.
-To install pandas using Pip type <code> pip install pandas </code>. If you use conda type <code> conda install pandas </code>.
+To install pandas using Pip type <code> pip install pandas </code>. If you use conda type <code> conda install -c anaconda pandas </code>.
 
 To install python-igraph on OSX use the following commands in the terminal:
 <code> brew install cairo </code>,
