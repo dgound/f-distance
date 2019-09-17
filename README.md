@@ -37,7 +37,7 @@ To plot the resulting graph use the option -p: `python bracket.py -f INPUTFILENA
 ## Input file format
 
 The input file must be a tab separated file with the following columns:
-gc1	gc2	(optional: gc3)	status	isotopy.class
+gc1,	gc2,	(optional: gc3),	status,	isotopy.class
 
 gc1: list of crossings labels as one walks around the diagram. An overcrossing is noted with a positive sign while an undercrossing with a negative sign.
 
