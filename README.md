@@ -29,7 +29,7 @@ To install python-igraph on Linux, use the command <code> apt-get install python
 
 To use the program one has first to load a file containing knotoid data as follows: `python f-distance.py -f INPUTFILENAME`. The output file will have the name: `INPUTFILENAME_forbidden_data.txt`
 
-The program computes by default the f-distance only for *prime* knotoids. To add composites into the analysis use the option -c: `python bracket.py -f INPUTFILENAME -c`. 
+The program computes by default the f-distance only for *prime* knotoids. To add composites into the analysis use the option -c: `python f-distance.py -f INPUTFILENAME -c`. 
 
 To plot the resulting graph use the option -p: `python f-distance.py -f INPUTFILENAME -c -p`. 
 
