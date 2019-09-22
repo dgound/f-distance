@@ -21,7 +21,7 @@ To install python-igraph on OSX use the following commands in the terminal:
 Note that for the above commands to work, Homebrew is required. For installation please follow the instructions at: http://brew.sh/ 
 Alternatively on may use Macports: https://www.macports.org/install.php
 
-To install python-igraph on Linux, use the command <code> apt-get install python-igraph </code>
+To install python-igraph on Linux, use the command <code> apt-get install python3-igraph </code>
 
 
 
